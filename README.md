@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![rect](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&text=%20Hello%20&fontAlign=30&fontSize=30&textBg=true&desc=Today%20I%20Learn&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&text=%20Hello%20&fontAlign=30&fontSize=30&textBg=true&desc=Today%20I%20Learned&descAlign=60&descAlignY=50)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seungho001206)](https://solved.ac/seungho001206)<br/>
 
