@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![rect](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
 
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
- 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seungho001206)](https://solved.ac/seungho001206)<br/>
+
+ <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoya55&count_bg=%2368C025&title_bg=%23565656&icon=bitrise.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
